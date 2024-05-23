@@ -1,0 +1,11 @@
+file sharing website with differtn users. users can post files to public page or share them with specific users
+
+main page will have login or create account componenets similar to insta-clone tutorail. once logged in main page will have left and right divs.
+left div will show all publicly shared files and right div will have the files shared with other people. 
+
+right div will have accordian componenet from tailwind material with the users and underneath the file shared with said users
+
+nav bar will be in center of pge cause fuck it bringing you 
+1.to the feed of publicly shared files with a search bar
+2.logging out to landing page
+3. main page described above
